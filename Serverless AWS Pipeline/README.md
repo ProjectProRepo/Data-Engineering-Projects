@@ -41,11 +41,11 @@ By completing this project, you will:
 
 ## Key Features of the Serverless Pipeline  
 
-✔ **Fully Serverless**: Uses **AWS Lambda, Glue, and S3** for scalable data processing.  
-✔ **Financial Market Data Processing**: Ingests data from **Alpha Vantage API, Amazon Aurora, and S3**.  
-✔ **Automated ETL Workflows**: Uses **AWS Glue** for efficient data transformation.  
-✔ **SQL-Based Querying**: Utilizes **Amazon Athena** to perform analysis on transformed data.  
-✔ **Real-Time Data Visualization**: Implements **QuickSight dashboards** for financial insights.  
+- **Fully Serverless**: Uses **AWS Lambda, Glue, and S3** for scalable data processing.  
+- **Financial Market Data Processing**: Ingests data from **Alpha Vantage API, Amazon Aurora, and S3**.  
+- **Automated ETL Workflows**: Uses **AWS Glue** for efficient data transformation.  
+- **SQL-Based Querying**: Utilizes **Amazon Athena** to perform analysis on transformed data.  
+- **Real-Time Data Visualization**: Implements **QuickSight dashboards** for financial insights.  
 
 ## Important Notes  
 
