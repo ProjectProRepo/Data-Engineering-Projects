@@ -45,4 +45,4 @@ This project focuses on migrating real-time **IoT-based data** from a **MySQL da
 - Enhance security by implementing **AWS IAM roles and policies**.
 
 ## Project Link
-[GitHub Repository - AWS MySQL to PostgreSQL Migration](<[https://github.com/ProjectProRepo/Agentic-AI](https://www.projectpro.io/project-use-case/data-migration-project-for-migrating-from-mysql-to-aws-cloud)>)
+[Migration of MySQL Databases to Cloud AWS using AWS DMS](<https://github.com/ProjectProRepo/Agentic-AI](https://www.projectpro.io/project-use-case/data-migration-project-for-migrating-from-mysql-to-aws-cloud>)
