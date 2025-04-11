@@ -79,7 +79,7 @@ This dataset is streamed into Kinesis and processed in real-time to detect patte
 
 ## Project Link
 
-[AWS Project: Real-Time Streaming Data Pipeline Using Flink and Kinesis](#)
+[AWS Project: Real-Time Streaming Data Pipeline Using Flink and Kinesis](https://www.projectpro.io/project-use-case/real-time-streaming-data-pipeline-using-apache-flink-python-and-amazon-kinesis)
 
 ## Next Steps
 
