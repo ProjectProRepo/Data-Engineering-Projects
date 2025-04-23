@@ -77,7 +77,7 @@ The [Movielens dataset](https://grouplens.org/datasets/movielens/) includes:
 
 ## Project Link
 
-[Movielens Dataset Analysis on Azure](https://www.projectpro.io/project-use-case/analyse-movie-ratings-data)
+- [Movielens Dataset Analysis on Azure](https://www.projectpro.io/project-use-case/analyse-movie-ratings-data)
 ---
 
 ## Next Steps
