@@ -68,51 +68,11 @@ By completing this project, you will:
 - **Data Visualization**: Build dashboards with real-time insights in Google Data Studio.  
 - **Scalable and Modular**: Easily extendable for larger datasets or new ingestion sources.
 
-## Project Description
-
-### What is Data Ingestion?
-
-**Data Ingestion** is the process of collecting and transporting data from multiple sources into a destination where it can be analyzed and stored—such as a **data warehouse**, **data mart**, or **cloud storage**. Sources may include **RDBMS**, **CSV files**, **APIs**, or **streaming services** like Pub/Sub.
-
-### What is a Data Pipeline?
-
-A **data pipeline** is an end-to-end system that captures, processes, and delivers data from source to destination. It typically includes stages such as extraction, validation, transformation, and loading (ETL), with orchestration and monitoring built-in.
-
-### Agenda of the Project
-
-- Build a hybrid **data ingestion and processing pipeline** on GCP.  
-- Use the **Yelp dataset (JSON format)** for real-time and batch input.  
-- Set up a **GCP service account** and install the **Google Cloud SDK**.  
-- Configure **Python** and required libraries locally.  
-- Stream Yelp JSON data to **Google Pub/Sub**.  
-- Orchestrate batch ingestion using **Cloud Composer (Airflow)**.  
-- Process data with **Apache Beam**, deployed via **Dataflow**.  
-- Load transformed data into **Google BigQuery**.  
-- Visualize the final dataset in **Google Data Studio**.
 
 ## Dataset Overview
 
 We use the publicly available **Yelp dataset**, which contains business, user, and review information in JSON format.
 
-### Usage of the Dataset Includes:
-
-- **Batch Pipeline**:  
-  - Push Yelp JSON files to **Google Cloud Storage (GCS)**.  
-  - Use **Cloud Composer** to schedule Apache Beam batch processing jobs.  
-
-- **Streaming Pipeline**:  
-  - Stream Yelp data in real-time to a **Pub/Sub topic**.  
-  - Use **Apache Beam streaming jobs** deployed on **Dataflow** to process messages.  
-
-## Data Analysis Flow
-
-1. Download the **Yelp dataset** in JSON format.  
-2. Upload batch data to **GCS** using the SDK or GCSFuse.  
-3. Stream JSON lines to a **Pub/Sub topic** for real-time processing.  
-4. Write **Apache Beam pipelines** for both stream and batch processing.  
-5. Deploy these pipelines to **Dataflow** and monitor execution.  
-6. Write transformed output to **BigQuery** tables.  
-7. Visualize results using **Google Data Studio** or **Looker**.
 
 ## Important Notes
 
