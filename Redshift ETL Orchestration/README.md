@@ -25,7 +25,7 @@ Efficient ETL orchestration is crucial for data-driven organizations aiming to c
 - Automate data extraction, transformation, loading, and notifications.
 - Visualize processed data using QuickSight dashboards.
 
-# Key Features of the Project
+## Key Features of the Project
 - **Serverless ETL** with AWS Glue.
 - **Workflow Orchestration** using AWS Step Functions.
 - **Data Warehousing** with Amazon Redshift.
