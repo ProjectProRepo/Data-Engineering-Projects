@@ -97,21 +97,8 @@ This data simulates real-time geolocation tracking, suitable for movement analys
 ```
 ---
 
-## Architecture Summary
-
-1. **Ingest**:  
-   Lambda monitors S3 and sends data to Kinesis Data Streams.
-
-2. **Analyze**:  
-   Spark Streaming on EMR reads data from Kinesis Streams and transforms it.
-
-3. **Deliver**:  
-   Processed data is pushed to Kinesis Firehose and then stored in OpenSearch.
-
-4. **Visualize**:  
-   OpenSearch Dashboards (Kibana) is used to create geo-based visualizations.
-
----
+## Project Link
+[Build a Real-Time Spark Streaming Pipeline on AWS using Scala](https://www.projectpro.io/project-use-case/spark-streaming-aws-using-scala)
 
 ## Next Steps
 
