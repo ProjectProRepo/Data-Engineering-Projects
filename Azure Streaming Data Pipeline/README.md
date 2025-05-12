@@ -90,7 +90,7 @@ A **fully managed relational database** in the cloud that offers scalability, se
 ---
 
 ## Project Link  
-Azure Streaming Project: Real-Time Transportation Analytics using Stream Analytics, Event Hub, and SQL  
+[Azure Streaming Project: Real-Time Transportation Analytics using Stream Analytics, Event Hub, and SQL ](https://www.projectpro.io/project-use-case/data-pipeline-using-azure-stream-analytics)
 
 ---
 
